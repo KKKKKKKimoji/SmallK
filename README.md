@@ -1,2 +1,1 @@
-# §2SmallK§
-IT'S A WEB FOR SMALLK
+# SmallK
