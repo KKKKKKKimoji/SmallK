@@ -1,0 +1,2 @@
+# SmallK
+IT'S A WEB FOR SMALLK
